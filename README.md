@@ -1,0 +1,1 @@
+ A Machine Learning model is use for analysis of public sentiment on speech of President Donald Trump. Sentimental Analysis is the automated process of analyzing text data and sorting it into sentiments positive and negative. 
